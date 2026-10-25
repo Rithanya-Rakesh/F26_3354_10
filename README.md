@@ -1,6 +1,6 @@
-# Team-10-Construction-Site-Safety-Monitoring-System
+# F26_3354_10
 Software Engineering Class Project
 
-Team Name: Not Picked Yet
+Team Name: Hard Hat Team
 
 Team Number: 10
